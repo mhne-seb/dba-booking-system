@@ -1,1 +1,2 @@
-
+Autocare – A Vulcanizing Shop Booking System
+Autocare is a web-based booking system designed to simplify the process of scheduling vulcanizing services. It allows customers to conveniently book appointments online instead of waiting in line at the shop. The system helps shop owners manage bookings, customer information, and service records in an organized way. It also improves communication between customers and service providers.
